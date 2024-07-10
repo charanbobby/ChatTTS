@@ -595,3 +595,5 @@ class Chat:
         del_all(logits_processors)
 
         return result
+
+print("core.py executed")
